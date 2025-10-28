@@ -1,5 +1,6 @@
-.idea
-.venv
+.idea/
+.venv/
 chonado.pub
 chonado
-.idea/
+.venv
+.idea
