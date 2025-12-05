@@ -34,10 +34,10 @@
 | открой Discord | Открывает Discord (Mac: приложение, Windows: браузер) |
 | открой Spotify | Открывает Spotify Web |
 | открой Twitch | Открывает Twitch |
-| включи браузер | Открывает Google Chrome |
+| включи гугл | Открывает Google Chrome |
 | включи Яндекс | Открывает Yandex Browser |
-| открой проект | Открывает PyCharm |
-| открой CapCut | Открывает CapCut |
+| открой проект | Открывает VSCode |
+| открой Obsidian | Открывает CapCut |
 | включи музыку | Открывает стандартное музыкальное приложение |
 | включи Finder | Открывает Finder (только Mac) |
 
@@ -67,7 +67,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/cactus-0.0.1/REPOSITORY.git
 cd REPOSITORY
 голосовой ассистент, написанный на Python, который умеет распознавать
 голосовые команды на русском языке и выполнять различные действия:
