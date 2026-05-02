@@ -67,8 +67,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/cactus-0.0.1/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/CactusAI-assistant/cactusAI-0.0.1
+cd ai-cactus
 голосовой ассистент, написанный на Python, который умеет распознавать
 голосовые команды на русском языке и выполнять различные действия:
 от открытия приложений до поиска информации в интернете.
